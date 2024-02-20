@@ -1,4 +1,4 @@
-# Climate-Change-and-Crop-Yield-Prediction
+# Factors-Impacting-Crop-Yield-Prediction
 
 # Objective: 
 Build a model to predict crop yields (e.g., rice,wheat,corn,etc) based on historical climate data and climate change projections. By analyzing the relationship between different  variables and crop yields, the model aims to forecast the impact on agricultural productivity.
